@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Eya Korbi
 
-<!--
-**eyakorbi/eyakorbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student (5th year) at ISIMM — specializing in Full-Stack Development, Backend Engineering, and DevOps.  
+💼 Looking for a PFE internship (2025) in **web development, software engineering, or backend systems**.  
+🚀 Passionate about modern architectures, cloud technologies, and building scalable applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Java, Python, JavaScript, TypeScript, C, C++  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js / Express, Spring Boot, Django, WebSockets  
+**Databases:** MongoDB, MySQL, PostgreSQL, Prisma ORM  
+**DevOps:** Docker, Git/GitHub, CI/CD (GitHub Actions)  
+**Data Science / ML:** pandas, NumPy, scikit-learn, PySpark  
+
+---
+
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+
+---
+
+## 🌐 Find me
+🔗 LinkedIn: https://linkedin.com/in/eya-korbi  
+📩 Email: aya.korbi.1@gmail.com  
