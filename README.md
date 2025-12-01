@@ -17,14 +17,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=eyakorbi&show_icons=true&theme=transparent)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyakorbi&layout=compact&theme=transparent)
-
----
-
 ## 🌐 Find me
 🔗 LinkedIn: https://linkedin.com/in/eya-korbi  
 📩 Email: aya.korbi.1@gmail.com  
