@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eya Korbi
 
-🎓 Software Engineering student (5th year) at ISIMM — specializing in Full-Stack Development, Backend Engineering, and DevOps.  
+🎓 Software Engineering student (5th year) at ISIMM — specializing in Full-Stack Development, Backend Engineering, DevOps and AI.  
 💼 Looking for a PFE internship (2025) in **web development, software engineering, or backend systems**.  
 🚀 Passionate about modern architectures, cloud technologies, and building scalable applications.
 
